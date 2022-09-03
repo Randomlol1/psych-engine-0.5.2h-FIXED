@@ -1,0 +1,193 @@
+{
+	"dialogue": [
+		{
+			"expression": "annoyed",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "worried",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "dearest"
+		},
+		{
+			"expression": "scared",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "worried",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "dearest"
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Well played.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dearest"
+		},
+		{
+			"expression": "annoyed",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Y-Yeah, no preassure.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "confused",
+			"text": "Phew.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Girlfriend"
+		},
+		{
+			"expression": "cheary",
+			"text": "That was fun, we should do this again some time.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "neutral",
+			"text": "I think once is enough.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "happy",
+			"text": "Nah, I agree. Maybe we should do this again sometime.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dearest"
+		},
+		{
+			"expression": "happy",
+			"text": "By the way, sweetheart, can you give me and BF a second to talk?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dearest"
+		},
+		{
+			"expression": "confused",
+			"text": "Um... okay...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "happy",
+			"text": "What's up? What do you need to say?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "worried",
+			"text": "Well... it's about my wife.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dearest"
+		},
+		{
+			"expression": "worried",
+			"text": "Hmm?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "worried",
+			"text": "I... don't know how much longer I can keep this secret.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dearest"
+		},
+		{
+			"expression": "nervous",
+			"text": "Wait, does she...?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "worried",
+			"text": "No, not that I know of yet. Have a feeling that she's about to though.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dearest"
+		},
+		{
+			"expression": "worried",
+			"text": "Just listen to my daughter and be careful. I can't keep lying to her forever.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dearest"
+		},
+		{
+			"expression": "worried",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "away",
+			"text": "Duly noted.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "happy",
+			"text": "Hey, babe, your dad's outside.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "worried",
+			"text": "Right, should probably get going.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "happy",
+			"text": "See ya around, boo. You too, Mr. Dearest.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "cheary",
+			"text": "Bye, babe.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "thumbsup",
+			"text": "See ya around, kid.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dearest"
+		}
+	]
+}

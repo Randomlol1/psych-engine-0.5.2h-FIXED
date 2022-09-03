@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "annoyed",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0
+		},
+		{
+			"expression": "happy",
+			"text": "What's up, kid?",
+			"boxState": "normal",
+			"portrait": "dearest",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "You're starting to sweat a little more than just 'barely'.",
+			"boxState": "normal",
+			"portrait": "dearest",
+			"speed": 0.05
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Heh... as if...",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "thumbsup",
+			"text": "I can do this all day.",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "annoyed",
+			"text": "Babe, I really think you should stop here.",
+			"boxState": "normal",
+			"portrait": "girlfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Nah, nah, I can keep going. This is nothing.",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "scared",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "girlfriend",
+			"speed": 0
+		},
+		{
+			"expression": "happy",
+			"text": "Heh, alright then. But prepare yourself.",
+			"boxState": "normal",
+			"portrait": "dearest",
+			"speed": 0.05
+		},
+		{
+			"expression": "Scary",
+			"text": "Cause I ain't goin' easy on ya this time.",
+			"boxState": "normal",
+			"portrait": "dearest",
+			"speed": 0.095
+		},
+		{
+			"expression": "nervous",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0
+		}
+	]
+}
