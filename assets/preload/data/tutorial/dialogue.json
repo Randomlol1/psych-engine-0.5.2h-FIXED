@@ -1,0 +1,40 @@
+{
+	"dialogue": [
+		{
+			"expression": "worried",
+			"text": "Ya sure? I don't know if I need a rehersal.",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "worried",
+			"text": "To be honest, I think my singing is pretty fine.",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "I know, I just wanna hear you sing. Plus it's been a while since we sang together.",
+			"boxState": "normal",
+			"portrait": "girlfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "So, ready?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Ya know I'm ready for ya boo.",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		}
+	]
+}
