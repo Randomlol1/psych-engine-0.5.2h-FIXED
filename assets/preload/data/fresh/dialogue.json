@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Hmm, not bad.",
+			"boxState": "normal",
+			"portrait": "dearest",
+			"speed": 0.05
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Tch that was nothin'. I barely broke a sweat.",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Hehe, don't get cocky now, kid. The first time is always easy.",
+			"boxState": "normal",
+			"portrait": "dearest",
+			"speed": 0.05
+		},
+		{
+			"expression": "cheary",
+			"text": "Well I still beat you, old man.",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "annoyed",
+			"text": "BF.",
+			"boxState": "normal",
+			"portrait": "girlfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Don't worry sweetheart. Not the first time someone egged me on like this.",
+			"boxState": "normal",
+			"portrait": "dearest",
+			"speed": 0.05
+		},
+		{
+			"expression": "thumbsup",
+			"text": "So, what do you say? One more round?",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Yeah, how about three out of five?",
+			"boxState": "normal",
+			"portrait": "dearest",
+			"speed": 0.05
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Bet.",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "neutral",
+			"text": "*Sigh*",
+			"boxState": "normal",
+			"portrait": "girlfriend",
+			"speed": 0.05
+		}
+	]
+}
