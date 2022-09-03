@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "thumbsup",
+			"text": "Yeah! I still got it.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "cheary",
+			"text": "Good job, babe.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "shadow",
+			"text": "Well, look who decided to show up.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dearest"
+		},
+		{
+			"expression": "worried",
+			"text": "Hmm?",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Oh, sup Mr. Dearest.",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Hi Papa.",
+			"boxState": "normal",
+			"portrait": "girlfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Hey, nice to see you still got it.",
+			"boxState": "normal",
+			"portrait": "dearest",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "The place is closing in a bit. So how about a little rehearsal before we go.",
+			"boxState": "normal",
+			"portrait": "dearest",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "... Didn't I just...",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Well, no offense Mr. Dearest, but I don't think an old man like you can keep up with me.",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "annoyed",
+			"text": "Babe!",
+			"boxState": "normal",
+			"portrait": "girlfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Oh, is that so?",
+			"boxState": "normal",
+			"portrait": "dearest",
+			"speed": 0.05
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Yeah, I'm sure it's so.",
+			"boxState": "normal",
+			"portrait": "boyfriend",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Haha, alright. Show me what you got, kid.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dearest"
+		},
+		{
+			"expression": "confused",
+			"text": "Babe, are you sure about this?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "cheary",
+			"text": "Relax, boo, it's not a big deal.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "thumbsup",
+			"text": "Trust me, I got this.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "neutral",
+			"text": "Okay, just be careful.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		}
+	]
+}
